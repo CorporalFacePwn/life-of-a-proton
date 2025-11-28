@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+.build/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*env/
+
+# Manim media
+media/
+**/media/
+**/videos/
+**/images/
+**/Tex/
+**/partial_movie_files/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+.jupyter/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Misc
+*.tmp
